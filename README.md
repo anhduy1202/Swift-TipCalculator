@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/GOnOU4w
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/GOnOU4w"  ><a href="//imgur.com/a/GOnOU4w">Swift Tip Calculator</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
